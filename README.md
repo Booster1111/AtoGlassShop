@@ -64,3 +64,16 @@ $ npm run build
 * Firebase auth provider authentication
 * Account creation and edit
 
+## sign in and sign up 
+![sign up](https://user-images.githubusercontent.com/61457979/127736344-b6ad0fab-1888-4274-b4dd-322519f9ff68.PNG)
+
+
+## Admin panel
+![admin](https://user-images.githubusercontent.com/61457979/127736531-43dbf070-7698-4b8c-8b02-2bc02a65eee7.PNG)
+![admin panel product list](https://user-images.githubusercontent.com/61457979/127736536-52e02a06-5236-4bc2-8e78-968a2ed59f0d.PNG)
+![add new product](https://user-images.githubusercontent.com/61457979/127736538-c804a2a4-d3e9-4894-abf8-9ec9c5821878.PNG)
+
+## firebase database screen shots
+![firebase](https://user-images.githubusercontent.com/61457979/127737661-79f5a6e5-5ec1-4dab-89f2-33d0acf63cd9.PNG)
+![fir2](https://user-images.githubusercontent.com/61457979/127737663-0b9f7cb3-ec18-412a-b1c5-54334580cf4f.PNG)
+
