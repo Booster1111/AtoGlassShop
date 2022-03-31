@@ -65,15 +65,10 @@ $ npm run build
 * Account creation and edit
 
 ## sign in and sign up 
-![sign up](https://user-images.githubusercontent.com/61457979/127736344-b6ad0fab-1888-4274-b4dd-322519f9ff68.PNG)
+![Untitled2](https://user-images.githubusercontent.com/89033750/161114921-90397047-8502-4dcf-9c6b-52140f53d1db.png)
 
 
-## Admin panel
-![admin](https://user-images.githubusercontent.com/61457979/127736531-43dbf070-7698-4b8c-8b02-2bc02a65eee7.PNG)
-![admin panel product list](https://user-images.githubusercontent.com/61457979/127736536-52e02a06-5236-4bc2-8e78-968a2ed59f0d.PNG)
-![add new product](https://user-images.githubusercontent.com/61457979/127736538-c804a2a4-d3e9-4894-abf8-9ec9c5821878.PNG)
+## firebase database
+![Untitled4](https://user-images.githubusercontent.com/89033750/161115151-a7928fb4-6f2c-4a90-a904-5741c2526ec8.png)
 
-## firebase database screen shots
-![firebase](https://user-images.githubusercontent.com/61457979/127737661-79f5a6e5-5ec1-4dab-89f2-33d0acf63cd9.PNG)
-![fir2](https://user-images.githubusercontent.com/61457979/127737663-0b9f7cb3-ec18-412a-b1c5-54334580cf4f.PNG)
 
