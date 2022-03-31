@@ -24,13 +24,13 @@ and add the following configuration details. You can either use the same configu
 ```
 // SAMPLE CONFIG .env.dev, you should put the actual config details found on your project settings
 
-FIREBASE_API_KEY=AIzaKJgkjhSdfSgkjhdkKJdkjowf
-FIREBASE_AUTH_DOMAIN=yourauthdomin.firebaseapp.com
-FIREBASE_DB_URL=https://yourdburl.firebaseio.com
-FIREBASE_PROJECT_ID=yourproject-id
-FIREBASE_STORAGE_BUCKET=yourstoragebucket.appspot.com
-FIREBASE_MSG_SENDER_ID=43597918523958
-FIREBASE_APP_ID=234598789798798fg3-034
+FIREBASE_API_KEY=AIzaSyBge81jgwZvfu769SOJSXr6mVuxiLYBB0U
+FIREBASE_AUTH_DOMAIN=onlineglass-379bc.firebaseapp.com
+FIREBASE_DB_URL=https://onlineglass-379bc-default-rtdb.firebaseio.com/
+FIREBASE_PROJECT_ID=onlineglass-379bc
+FIREBASE_STORAGE_BUCKET=gs://onlineglass-379bc.appspot.com
+FIREBASE_MSG_SENDER_ID=615374682590
+FIREBASE_APP_ID=1:615374682590:web:3812b09eb2f9fd0d08054f
 
 ``` 
 
