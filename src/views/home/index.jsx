@@ -51,7 +51,7 @@ const Home = () => {
         </div>
         <div className="display">
           <div className="display-header">
-            <h1>Featured Products</h1>
+            <h1>Featured</h1>
             <Link to={FEATURED_PRODUCTS}>See All</Link>
           </div>
           {(errorFeatured && !isLoadingFeatured) ? (
