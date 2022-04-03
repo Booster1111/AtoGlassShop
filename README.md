@@ -1,5 +1,5 @@
 # Salinaka | E-commerce react app
-Simple ecommerce react js app with firebase [typescript].
+ecommerce react js app with firebase [typescript].
 ![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
 
 ![Untitled](https://user-images.githubusercontent.com/89033750/161115294-c594baa0-145e-4d73-b059-3cfcd708fc59.png)
